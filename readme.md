@@ -1,6 +1,6 @@
-# iron-coffee
+# mocha-latte
 
-A flatiron http server template in coffee-script
+A flatiron http server template in coffee-script made from [iron-coffee](https://github.com/twilson63/iron-coffee)
 
 ## Technologies
 This is a template that can be used to create nodejs applications using
